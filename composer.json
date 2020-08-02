@@ -1,0 +1,13 @@
+{
+    "name": "grulog/laravel-language",
+    "description": "A switcher language package for laravel app.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ulrich Grah",
+            "email": "grulogdev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
